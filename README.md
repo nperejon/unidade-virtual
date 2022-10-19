@@ -2,8 +2,6 @@
 ## Projeto de plataforma virtual para desafios para Clubes de Desbravadores.
 
 ![GitHub package.json version](https://img.shields.io/github/package-json/v/Nick3n/unidade-virtual)
-![GitHub](https://img.shields.io/github/license/Nick3n/unidade-virtual)
-
 
 Tabela de conteúdos
 
