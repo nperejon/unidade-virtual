@@ -1,0 +1,19 @@
+{
+  "name": "unidade-virtual",
+  "version": "1.0.0",
+  "description": "Projeto de plataforma virtual para desafios utilizado por Clube de Desbravadores",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nick3n/unidade-virtual.git"
+  },
+  "author": "Nicolas Perejon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nick3n/unidade-virtual/issues"
+  },
+  "homepage": "https://github.com/Nick3n/unidade-virtual#readme"
+}
